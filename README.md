@@ -1,1 +1,1 @@
-# keylogging.py
+Hello! As I have delved more into the world of cybersecurity I have found myself very interested in malware/malware analysis. This is one piece of malware I found very interesting. I had a lot of fun writing this and can not wait to add more stuff to my portfolio in the future! As always do NOT use this for any malicious purposes. This is soley meant as a learning experience for me and for others who view this repository. Be safe and please do NOT do anything illegal :)
